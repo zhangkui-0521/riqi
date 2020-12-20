@@ -15,5 +15,9 @@ namespace date
         {
             InitializeComponent();
         }
+        public void test()
+        {
+            int a = 6;
+        }
     }
 }
