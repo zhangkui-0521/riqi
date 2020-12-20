@@ -20,7 +20,7 @@ namespace date
             int a = 6;
             int b = 8;
             int c = 10;
-            int d = 15;
+            int d = 12;
         }
 
     }
