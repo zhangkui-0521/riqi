@@ -21,6 +21,7 @@ namespace date
             int b = 8;
             int c = 10;
             int d = 12;
+            int f = 15;
         }
 
     }
